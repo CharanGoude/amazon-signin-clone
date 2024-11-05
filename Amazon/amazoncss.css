@@ -1,0 +1,65 @@
+html {
+
+}
+body {
+
+}
+div{
+  margin: auto;
+  max-width: 25%;
+
+}
+form {
+  border: solid;
+  border-radius: 8px;
+}
+fieldset {
+align-self: center;
+border: none;
+
+}
+.newtoamazon {
+  display: block;
+
+}
+img {
+  max-width: 25%;
+  max-height: 25%;
+  margin: auto;
+}
+h1 {
+  font-size: 2sem;
+  padding: 1px;
+  margin: 0;
+}
+h2 {
+  font-size: .8em;
+  margin: 0;
+
+}
+p {
+  font-size: .9em;
+  display: inline;
+}
+a {
+  font-size: .9em;
+  display: inline;
+}
+.signin {
+  background: #edbf4c;
+}
+
+input {
+  width: 100%;
+  border-radius: 8px;
+  margin: 0;
+}
+.check {
+  width: auto;
+}
+legend {
+  align-self: center;
+}
+button {
+  background: #edbf4c;
+}
